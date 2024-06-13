@@ -1,0 +1,33 @@
+#conteiner {
+    margin-top: 193px;
+    margin-left: 330px;
+    margin-right: 250px;
+    padding: 50px;
+    background-color: black;
+    border: 5px double red;
+}
+
+button {
+    margin: 1px;
+    padding: 15px;
+    font-weight: bolder;
+    border-radius: 10px;
+    
+}
+button:hover {
+ background-color: black;
+ color: white;
+}
+
+.space {
+    padding: 15px 50px 15px 50px;
+}
+.shift {
+    padding: 15px 50px 15px 50px; 
+}
+.enter {
+    padding: 15px 40px 15px 40px; 
+}
+.bckspace {
+    padding: 15px 40px 15px 40px;
+}
